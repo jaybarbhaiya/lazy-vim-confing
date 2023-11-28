@@ -1,5 +1,5 @@
 return {
-  -- add gruvbox
+  -- add catppuccin theme
   { "catppuccin/nvim" },
 
   -- Configure LazyVim to load gruvbox
