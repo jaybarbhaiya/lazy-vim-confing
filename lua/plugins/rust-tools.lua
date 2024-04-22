@@ -10,7 +10,7 @@ return {
       },
       setup = {
         rust_analyzer = function(_, opts)
-          require("rust-tools").setup({ server = opts })
+          -- require("rust-tools").setup({ server = opts })
           return true
         end,
       },
